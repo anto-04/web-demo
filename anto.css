@@ -1,0 +1,127 @@
+body{
+    color: antiquewhite;
+    background-image: url(https://i.pinimg.com/736x/0e/f4/01/0ef4011a9201b8807c533760f0ddc49f.jpg);
+    background-attachment: fixed;
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    
+   
+}
+.heading{
+    position: relative;
+    top: 0%;
+    left: 0;
+    width: 100;
+    padding: 15px 214.8px;
+    background: transparent;
+    display: flex;
+    justify-content:space-between;
+    align-items:center;
+    z-index: 100;
+    
+}
+
+
+
+.icons a{
+   
+    display: inline-block;
+    font-size: 25px;
+    color: rgb(248, 182, 1);
+    text-decoration: none;
+    font-weight: 00;
+    margin-top: 10px;
+    margin-left: 70px;
+    transition: .2s;
+    padding-left: 80px;
+    padding-right: 0px;
+
+
+}
+.photo {
+    width: 400px;
+    height: 600px;
+    border-radius: 50px;
+    margin-left: 100px;
+    float: left;
+    margin-top: 40px;
+
+}
+.icons a:hover{
+   color:rgb(0, 208, 255);
+}
+.a {
+    font-size: x-large;
+    float: right;
+    margin-right: 150px;
+    margin-top: 130px;
+    color: rgb(248, 182, 1);
+    width: 800px;
+}
+.d {
+    margin-top: 700px;
+}
+.j {
+    text-align: center;
+    font-size: x-large;
+    color: rgb(248, 182, 1);
+}
+ul li {
+    text-align: justify;
+    font-size: large;
+    color: aliceblue;
+    margin-left: 10px;
+    margin-bottom: 15px;
+
+}
+.z {
+    text-align: center;
+    font-size: x-large;
+    color: rgb(248, 182, 1);
+}
+ul li {
+    text-align: justify;
+    font-size: large;
+    color: aliceblue;
+    margin-left: 10px;
+    margin-bottom: 15px;
+}
+.f {
+    text-align: center;
+    font-size: large;
+    color: rgb(248, 182, 1);
+}
+ul li {
+    text-align: justify;
+    font-size: large;
+    color: aliceblue;
+    margin-left: 10px;
+    margin-bottom: 15px;
+}
+.g{
+    text-align: center;
+    font-size: large;
+    color: rgb(248, 182, 1);
+}
+ul li {
+    text-align: justify;
+    font-size: large;
+    color: aliceblue;
+    margin-left: 10px;
+    margin-bottom: 15px;
+}
+.y {
+    text-align: center;
+    font-size: large;
+    color: rgb(248, 182, 1);
+}
+ul li {
+    text-align: justify;
+    font-size: large;
+    color: aliceblue;
+    margin-left: 10px;
+    margin-bottom: 15px;
+}
+
+
+
